@@ -18,7 +18,7 @@ This project demonstrates JavaScript event handling, DOM manipulation, audio pla
 - CSS3 – Styling & Layout
 - JavaScript (ES6) – Logic, Sound, Interactions
 
-##📸 Preview
+## 📸 Preview
 - Here is a preview of the project:
 ![WhatsApp Image 2025-12-11 at 00 42 38_3381bcba](https://github.com/user-attachments/assets/02fd5c80-e438-4170-b244-35a1f09b0bf3)
 
