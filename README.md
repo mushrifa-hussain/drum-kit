@@ -6,12 +6,12 @@ Each drum image corresponds to a specific keyboard key, and when the user presse
 This project demonstrates JavaScript event handling, DOM manipulation, audio playback, and simple UI animations.
 
 🚀 Features
-🎧 Play drum sounds using keyboard keys (W, A, S, D, J, K, L)
-🖱️ Click support — users can click on drum icons to play sounds
-🎨 Stylish UI with custom images and hover animations
-⚡ Instant sound playback using the Audio API
-💫 Button animation to give a real-time press effect
-❤️ Custom footer credit “Made with ❤️ by Mushrifa”
+#🎧 Play drum sounds using keyboard keys (W, A, S, D, J, K, L)
+#🖱️ Click support — users can click on drum icons to play sounds
+#🎨 Stylish UI with custom images and hover animations
+#⚡ Instant sound playback using the Audio API
+#💫 Button animation to give a real-time press effect
+#❤️ Custom footer credit “Made with ❤️ by Mushrifa”
 
 🛠️ Technologies Used
 HTML5 – Structure
