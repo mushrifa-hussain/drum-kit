@@ -1,4 +1,4 @@
-##🥁 Drum Kit Website
+## 🥁 Drum Kit Website
 
 An interactive Drum Kit Web App built using HTML, CSS, and JavaScript.
 Each drum image corresponds to a specific keyboard key, and when the user presses that key (or clicks the drum), a drum sound plays instantly.
