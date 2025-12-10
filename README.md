@@ -20,8 +20,7 @@ JavaScript (ES6) – Logic, Sound, Interactions
 
 📸 Preview
 Here is a preview of the project:
-https://github.com/user-attachments/assets/702a39c2-a4da-4681-965a-ba2f18d1fe80
-
+![WhatsApp Image 2025-12-11 at 00 42 38_3381bcba](https://github.com/user-attachments/assets/02fd5c80-e438-4170-b244-35a1f09b0bf3)
 
 📂 How It Works
 Each drum button has an associated key (w, a, s, d, j, k, l).
